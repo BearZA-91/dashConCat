@@ -4,7 +4,7 @@
 ### Requirements:
 - Linux
 - FFMPEG
-- Cyclic Recordings
+- Cyclic Recordings from a dashcam or CCTV
 
 ### How to use:
 - Run the app in your terminal `./dashConCat`. The compiled app is in the "output" folder, or alternatively you can compile from source.
